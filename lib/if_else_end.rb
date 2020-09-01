@@ -1,1 +1,1 @@
-current_time.to.s
+current_time.to_i
