@@ -1,1 +1,1 @@
-current_time = time.now.to.s
+current_time = puts time.now.to.s
